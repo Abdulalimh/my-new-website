@@ -21,3 +21,15 @@ h1{
     width: 95%;
     padding-right: 3px;
 }
+.Link-button{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 10px 40px ;
+    border-radius: 5px;
+    font-weight: 700;
+    background-image: linear-gradient(orange ,tomato );
+
+
+}
+    
