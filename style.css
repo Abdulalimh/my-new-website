@@ -1,0 +1,23 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+#abdul-alim{
+    color: orange;
+}
+.well-come{
+    
+}
+#section1{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5px;
+}
+.half-width img{
+    width: 95%;
+    padding-right: 3px;
+}
