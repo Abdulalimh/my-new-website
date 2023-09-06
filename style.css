@@ -5,7 +5,7 @@ body{
 h1{
     font-size: 50px;
 }
-#abdul-alim{
+.abdul-alim{
     color: orange;
 }
 section{
@@ -52,6 +52,24 @@ section{
     border-radius: 5px;
     font-weight: 700;
     text-decoration: none;
+
+}
+.Experiences-item{
+    box-shadow: 10px 10px 40px lightblue;
+    width: 40%;
+    padding: 20px;
+    margin: 30px;
+    border-left:6px solid blue ;
+
+}
+.Experiences-item h1{
+     font-size: 35px;
+}
+.Experiences{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left ;
+
 
 }
 
