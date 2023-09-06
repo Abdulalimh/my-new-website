@@ -54,12 +54,15 @@ section{
     text-decoration: none;
 
 }
+#Experiences-hi{
+    padding-left: 10px;
+}
 .Experiences-item{
     box-shadow: 10px 10px 40px gray;
     width: 40%;
     padding: 20px;
     margin: 30px;
-    border-left:6px solid blue ;
+    border-radius: 10px;
 
 }
 .Experiences-item h1{
@@ -69,6 +72,16 @@ section{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position:left ;
+}
+#web-div-experiences{
+    border-left: 7px solid;
+    border-image: linear-gradient( blue, cyan);
+    border-image-slice:1 ;
+}
+#web-div-experiences-baby{
+    border-left: 7px solid;
+    border-image: linear-gradient( tomato, red);
+    border-image-slice:1 ;
 }
 footer p{
     text-align: center;
